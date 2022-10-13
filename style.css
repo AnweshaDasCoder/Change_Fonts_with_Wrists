@@ -1,0 +1,23 @@
+body {
+   background-color: plum;
+}
+
+canvas{
+   border-width:20px;
+	background-color: white; 
+	border-style:ridge;
+  border-color: blue;
+}
+
+h3{
+   font-size: 15px;
+   color: #FF5733;
+}
+
+.copy_right_footer {
+   background-color: powderblue; 
+   position: fixed; 
+   bottom: 0; 
+   width: 100%; 
+   text-align: center;
+}
